@@ -1,0 +1,13 @@
+{
+    "name": "HKEDevOps_Rossi",
+    "version": "1.0.0",
+    "description": "Test Node.js on  Docker",
+    "author": "Rossi Leung <rossileung@hkelectric.com>",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "dependencies": {
+        "express": "*"
+    }
+}
